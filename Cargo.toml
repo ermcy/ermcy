@@ -3,6 +3,9 @@ name = "ermcy"
 version = "0.0.0"
 edition = "2021"
 keywords = ["ermcy"]
+description = "My attempt at making a discord api wrapper in rust."
+license = "MIT"
+license-file = "LICENSE"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
